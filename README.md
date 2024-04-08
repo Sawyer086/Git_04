@@ -34,3 +34,10 @@
 ---
 
 ## Ответ:
+1. Команда для запроса: git log --oneline | grep '^aefea'
+   
+aefead2207 Update CHANGELOG.md
+
+
+   
+   
